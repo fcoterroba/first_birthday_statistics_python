@@ -19,7 +19,9 @@ You can use this repo always respecting the license. You can clone it using `git
 
 ## Some previews
 
-_TODO: Add images_
+![](https://github.com/fcoterroba/first_birthday_statistics_python/blob/main/Figure_1.png)
+![](https://github.com/fcoterroba/first_birthday_statistics_python/blob/main/Figure_2.png)
+![](https://github.com/fcoterroba/first_birthday_statistics_python/blob/main/Figure_3.png)
 
 ### License 
 ![](https://camo.githubusercontent.com/2a2157c971b7ae1deb8eb095799440551c33dcf61ea3d965d86b496a5a65df55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667)
