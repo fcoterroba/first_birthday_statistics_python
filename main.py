@@ -40,6 +40,6 @@ def grafico_tarta_trimestral():
 
 
 if __name__ == "__main__":
-    # grafico_barra_vertical()
-    # grafico_lineas_horizontal()
+    grafico_barra_vertical()
+    grafico_lineas_horizontal()
     grafico_tarta_trimestral()
